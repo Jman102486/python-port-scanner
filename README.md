@@ -1,4 +1,4 @@
-# 🔍 Python Port Scanner
+# 🔍 network-reconnaissance-tool
 
 A fast, multi-threaded port scanner built in Python for cybersecurity learning and lab environments.
 
